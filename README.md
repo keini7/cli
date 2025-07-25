@@ -31,7 +31,7 @@ All tasks are saved locally in a `tasks.json` file, and each task includes:
 ---
  ## Project URL
 
-[Project Repository]((https://github.com/keini7/cli))
+[Project Repository]((https://github.com/keini7/cli))(https://roadmap.sh/projects/task-tracker)
 
 ## How to Run
 
