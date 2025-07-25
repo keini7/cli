@@ -37,3 +37,7 @@ All tasks are saved locally in a `tasks.json` file, and each task includes:
 
 ```bash
 python gui.py
+
+ ## Project URL
+
+[Project Repository](https://github.com/yourusername/task-tracker-gui)
